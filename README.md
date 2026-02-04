@@ -1,1 +1,1 @@
-# box-office-revenue-predictor
+# Box office Revenue Predictor
